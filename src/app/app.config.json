@@ -1,0 +1,13 @@
+{
+  "appname": "Test App 2",
+  "ocscope": "",
+  "clientid": "6E8212D8-8B78-4840-B82C-3FAFB6D89433",
+  "buyerid": null,
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
